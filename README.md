@@ -50,7 +50,7 @@ A continuación se presentan algunos de los casos de estudio analizados en el no
 
 | **Caso 1: Subamortiguado (Oscilatorio)** | **Caso 3: Resonancia (Pico Máximo)** |
 | :---: | :---: |
-| <img src="caso1.png" width="400" alt="Gráfica Caso Subamortiguado"> | <img src="ruta/a/tu/imagen_caso3.png" width="400" alt="Gráfica Caso Resonancia"> |
+| <img src="caso1.png" width="400" alt="Gráfica Caso Subamortiguado"> | <img src="caso3.png" width="400" alt="Gráfica Caso Resonancia"> |
 | *Se observa la oscilación inicial debido a una resistencia baja ($100\Omega$).* | *La frecuencia de entrada coincide con la natural, generando máxima amplificación.* |
 
 <div align="center">
